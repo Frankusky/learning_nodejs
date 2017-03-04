@@ -1,0 +1,22 @@
+{
+  "name": "learning_nodejs",
+  "version": "1.0.0",
+  "description": "Here are some of my solutions for the learnyounode exercises provided in nodeschool.io",
+  "main": "exercise6_module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frankusky/learning_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frankusky/learning_nodejs/issues"
+  },
+  "homepage": "https://github.com/Frankusky/learning_nodejs#readme",
+  "dependencies": {
+    "learnyounode": "^3.5.10"
+  }
+}
